@@ -11,7 +11,12 @@ Cosine Similarity
 
 # Working:
 Movie dataset containing title and genre is created.
+
 Genre text is converted into numerical vectors using TF-IDF.
+
 Cosine similarity calculates similarity between movies.
+
 The system ranks movies based on similarity scores.
+
 The top similar movies are recommended to the user.
+
